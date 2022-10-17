@@ -1,4 +1,8 @@
-### Hi there 👋
+# 🔭 Nick van Urk
+
+**`Software Engineer`**
+
+I'm a software engineer specializing in full-stack web development and 3D applications.
 
 <!--
 **nickyvanurk/nickyvanurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
