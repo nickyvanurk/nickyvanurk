@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm a software engineer specializing in full-stack web development and 3D applications.
+Specialized in 3D applications with a focus on digital twins, simulations and data visualization.
 
 ---
 
