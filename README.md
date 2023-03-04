@@ -1,5 +1,3 @@
-# 🔭 Nick van Urk
-
 **`Software Engineer`**
 
 Specialized in 3D applications with a focus on digital twins, simulations and data visualization.
