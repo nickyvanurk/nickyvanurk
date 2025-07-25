@@ -1,6 +1,6 @@
-**`Software Engineer`**
+<img width="1526" height="378" alt="image" src="https://github.com/user-attachments/assets/ba461a62-2a71-4243-8dd0-ffed7bd9ed52" />**`Software Engineer`**
 
-I'm a web game engineer with a focus on 3D graphics and real-time networking. Specializing in Three.js, TypeScript, and Node.js, I build the underlying technologies that support interactive game worlds, multiplayer experiences, and dynamic, high-performance graphics.
+I'm a game engine programmer with a focus on 3D graphics and real-time networking. I build the underlying technologies that support interactive game worlds, multiplayer experiences, and dynamic, high-performance graphics.
 
 ---
 
