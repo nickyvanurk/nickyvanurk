@@ -1,6 +1,6 @@
 **`Software Engineer`**
 
-I'm a game engine programmer with a focus on 3D graphics and real-time networking. I build the underlying technologies that support interactive game worlds, multiplayer experiences, and dynamic, high-performance graphics.
+I'm a game engine programmer with a focus on real-time networking and replication. I build the underlying technologies that support interactive game worlds and multiplayer experiences.
 
 ---
 
