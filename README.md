@@ -1,6 +1,6 @@
 **`Software Engineer`**
 
-I'm a game engine programmer with a focus on real-time networking and replication. I build the underlying technologies that support interactive game worlds and multiplayer experiences.
+I'm a game (engine) programmer with a focus on client-server networking, simulation and replication. I build the underlying technologies that support interactive game worlds and multiplayer experiences.
 
 ---
 
