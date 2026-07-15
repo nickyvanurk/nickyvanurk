@@ -1,6 +1,6 @@
 **`Software Engineer`**
 
-I'm a web game (engine) programmer with a focus on client-server networking, simulation and replication. I build the underlying technologies that support interactive game worlds and multiplayer experiences.
+I build interactive 3D applications for the web—from geospatial visualization and digital twins to CAD viewers and multiplayer games. I specialize in performance and scalability—keeping things fast and responsive, even with large scenes and real-time data.
 
 ---
 
